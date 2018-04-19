@@ -1,0 +1,35 @@
+body{
+	max-width: 1000px;
+	margin: auto;
+	font-family: 'Cantarell', sans-serif;
+	font-size: larger;
+}
+
+h2 {
+	color: maroon;
+}
+
+#landing{
+	text-align: center;
+	padding-top: 200px;
+	margin-bottom: 200px;
+}
+
+section {
+	margin-top: 50px;
+	padding-left: 50px;
+}
+
+#blurb > a {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.lead {
+	font-size: .8em;
+	font-weight: lighter
+}
+
+img {
+	border-radius: 2.5%;
+}
